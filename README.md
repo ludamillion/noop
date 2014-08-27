@@ -1,5 +1,6 @@
-noop
-====
+noop 
+===
+[![Code Climate](https://codeclimate.com/github/ludamillion/noop/badges/gpa.svg)](https://codeclimate.com/github/ludamillion/noop)
 
 Nothing. On Demand.
 
