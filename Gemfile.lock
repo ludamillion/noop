@@ -1,10 +1,10 @@
 GEM
+  remote: https://rubygems.org/
   specs:
     diff-lcs (1.2.5)
     fuubar (2.0.0)
       rspec (~> 3.0)
       ruby-progressbar (~> 1.4)
-    rake (10.3.2)
     rspec (3.0.0)
       rspec-core (~> 3.0.0)
       rspec-expectations (~> 3.0.0)
@@ -24,5 +24,4 @@ PLATFORMS
 
 DEPENDENCIES
   fuubar
-  rake
   rspec (~> 3.0.0)

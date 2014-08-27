@@ -1,6 +1,6 @@
 require 'noop.rb'
 
-describe Noop::Noop do
+describe Noop do
   context "#noop" do
     it "returns nothing" do
       expect(subject.noop).to be_nil
