@@ -3,6 +3,6 @@ class Noop
   end
   
   def roc
-    -> {}
+    Proc.new {}
   end
 end
