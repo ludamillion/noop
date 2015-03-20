@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'noop'
-  s.version     = '0.0.1'
+  s.version     = '0.0.2'
   s.date        = '2014-08-27'
   s.summary     = "Nothing. On demand"
   s.authors     = ["Luke Inglis"]
