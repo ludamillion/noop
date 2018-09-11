@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'rspec', '~> 3.0.0'
-gem 'fuubar'
-em 'simplecov', require: false, group: :test
+group :test do
+  gem 'fuubar'
+  gem 'rspec', '~> 3.0.0'
+  gem 'simplecov', :require => false
+end
